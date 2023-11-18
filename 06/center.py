@@ -1,0 +1,5 @@
+print(''.center(120,'='))
+print(''.center(120,'/'))
+print('ali bazyari'.center(120,'*'))
+print(''.center(120,'\\'))
+print(''.center(120,'='))
